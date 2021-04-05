@@ -1,0 +1,10 @@
+E:\Github\IMS-Winforms\IMS\IMS.UI\bin\Debug\IMS.UI.exe.config
+E:\Github\IMS-Winforms\IMS\IMS.UI\bin\Debug\IMS.UI.exe
+E:\Github\IMS-Winforms\IMS\IMS.UI\bin\Debug\IMS.UI.pdb
+E:\Github\IMS-Winforms\IMS\IMS.UI\obj\Debug\IMS.UI.csprojAssemblyReference.cache
+E:\Github\IMS-Winforms\IMS\IMS.UI\obj\Debug\IMS.UI.FrmLogin.resources
+E:\Github\IMS-Winforms\IMS\IMS.UI\obj\Debug\IMS.UI.Properties.Resources.resources
+E:\Github\IMS-Winforms\IMS\IMS.UI\obj\Debug\IMS.UI.csproj.GenerateResource.cache
+E:\Github\IMS-Winforms\IMS\IMS.UI\obj\Debug\IMS.UI.csproj.CoreCompileInputs.cache
+E:\Github\IMS-Winforms\IMS\IMS.UI\obj\Debug\IMS.UI.exe
+E:\Github\IMS-Winforms\IMS\IMS.UI\obj\Debug\IMS.UI.pdb
